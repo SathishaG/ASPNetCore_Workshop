@@ -1,0 +1,14 @@
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/bin/release/netcoreapp2.2/CityInfo.API.deps.json
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/bin/release/netcoreapp2.2/CityInfo.API.runtimeconfig.json
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/bin/release/netcoreapp2.2/CityInfo.API.runtimeconfig.dev.json
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/bin/release/netcoreapp2.2/CityInfo.API.dll
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/bin/release/netcoreapp2.2/CityInfo.API.pdb
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.csprojAssemblyReference.cache
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.csproj.CoreCompileInputs.cache
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.RazorAssemblyInfo.cache
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.RazorAssemblyInfo.cs
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.AssemblyInfoInputs.cache
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.AssemblyInfo.cs
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.RazorTargetAssemblyInfo.cache
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.dll
+/home/sathisha/cartosData/Learning/DOtNetCore/Examples/Workshop/CityInfo.API/obj/release/netcoreapp2.2/CityInfo.API.pdb
